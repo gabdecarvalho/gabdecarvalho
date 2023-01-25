@@ -7,13 +7,13 @@ import Developer from 'Gabriel Wenchenck';
 
 class AboutMe extends Developer {
   name = 'Gabriel Wenchenck';
-  acknowledgements = 'Backend Developer';
-  learning = 'Docker';
+  acknowledgements = 'Fullstack Developer';
+  learning = ['Java', 'Angular', 'Docker'];
 }
 
 class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
-  frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
+  frameworksAndLibs = ['React, 'Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
 ``` 
 
