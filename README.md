@@ -1,9 +1,9 @@
 
-## Olá, eu sou o Gabriel Wenchenck
+## Olá, eu sou o Gabriel Carvalho
 
 
 ```js
-import Developer from 'Gabriel Wenchenck';
+import Developer from 'Gabriel Carvalho';
 
 class AboutMe extends Developer {
   name = 'Gabriel Wenchenck';
