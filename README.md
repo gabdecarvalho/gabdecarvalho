@@ -30,6 +30,8 @@ class Skills extends Developer {
 <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&layout=compact" align = "center"/>
 </p>
 
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align = "center"/>
+
 
 
 
