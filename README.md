@@ -8,7 +8,7 @@ import Developer from 'Gabriel Carvalho';
 class AboutMe extends Developer {
   name = 'Gabriel Wenchenck';
   acknowledgements = 'Fullstack Developer';
-  learning = ['Java', 'Angular', 'Docker'];
+  learning = ['Docker'];
 }
 
 class Skills extends Developer {
