@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Carvalho (gabrielwenchenck) 👋
+# Olá, eu sou o Gabriel de Carvalho 👋
 ## Desenvolvedor Backend em Transição para Cibersegurança | Foco em Análise SOC 
 
 <p align="center">
