@@ -26,10 +26,26 @@ Minha vivência no desenvolvimento full stack me proporcionou uma compreensão p
     * Técnicas de Investigação e Resposta a Incidentes.
     * Familiarização com frameworks como MITRE ATT&CK e Cyber Kill Chain.
 * Preparação para a certificação **(ISC)² Certified in Cybersecurity (CC)**.
+* Confira meus [**write-ups de desafios de segurança**](https://github.com/gabdecarvalho/TryHackMe-Writeups-Gabriel).
 
 ---
 
 ### 🛠️ Linguagens e Ferramentas
+
+**Cibersegurança:**
+<p align="left">
+  <a href="https://tryhackme.com/p/PhrygianHat" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Nmap-E42D2E?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/></a>
+  <a href="https://www.isc2.org/Certifications/CC" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/(ISC)²%20CC-0073A5?style=flat-square&logo=isc2&logoColor=white" alt="(ISC)² CC"/></a>
+  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OWASP%20Top%2010-772B90?style=flat-square&logo=owasp&logoColor=white" alt="OWASP Top 10"/></a>
+  <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MITRE%20ATT&CK-005B94?style=flat-square" alt="MITRE ATT&CK Framework"/></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+  <img src="https://img.shields.io/badge/SIEM-0078D4?style=flat-square" alt="SIEM"/>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/></a>
+  <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="ELK Stack"/></a>
+</p>
 
 **Desenvolvimento Backend & Full Stack:**
 <p align="left">
@@ -53,21 +69,6 @@ Minha vivência no desenvolvimento full stack me proporcionou uma compreensão p
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></a>
-</p>
-
-**Cibersegurança:**
-<p align="left">
-  <a href="https://tryhackme.com/p/PhrygianHat" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Nmap-E42D2E?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/></a>
-  <a href="https://www.isc2.org/Certifications/CC" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/(ISC)²%20CC-0073A5?style=flat-square&logo=isc2&logoColor=white" alt="(ISC)² CC"/></a>
-  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OWASP%20Top%2010-772B90?style=flat-square&logo=owasp&logoColor=white" alt="OWASP Top 10"/></a>
-  <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MITRE%20ATT&CK-005B94?style=flat-square" alt="MITRE ATT&CK Framework"/></a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
-  <img src="https://img.shields.io/badge/SIEM-0078D4?style=flat-square" alt="SIEM"/>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/></a>
-  <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="ELK Stack"/></a>
 </p>
 
 ---
