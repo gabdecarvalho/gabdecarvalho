@@ -76,12 +76,12 @@ Minha vivência no desenvolvimento full stack me proporcionou uma compreensão p
 ### 📊 Estatísticas do GitHub:
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" align="center"/>
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabdecarvalho&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" align="center"/>
   &nbsp;
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" align="center"/>
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabdecarvalho&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" align="center"/>
 </p>
 
 ---
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gabrielwenchenck&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gabdecarvalho&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
