@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gabdecarvalho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/gabdecarvalho" target="_blank"><img src="https://img.shields.io/badge/GitHub-gabdecarvalho-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://tryhackme.com/p/PhrygianHat" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-PhrygianHat-88CC14?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 </p>
 
 ---
@@ -25,8 +26,8 @@ Atualmente, estou estudando no **[curso.dev](https://curso.dev)**, de Filipe Des
 ### 🚀 Projetos em Destaque
 
 - **[Rappi4](https://github.com/gabdecarvalho/Rappi4)** — Aplicativo de delivery (clone do Rappi) desenvolvido com **React**, **Axios** e **Material UI**. Projeto mobile-first com autenticação, carrinho e histórico de pedidos.  
-- **[GW Movie](https://github.com/gabdecarvalho/gw-movie)** — Aplicação fullstack de avaliação de filmes (**Spring Boot + React**), com autenticação JWT e CRUD completo.  
-- **[TabNews Clone](https://github.com/gabdecarvalho/tabnews-clone)** — App fullstack com **Next.js e Node.js**, explorando SSR, SWR e boas práticas de arquitetura.  
+- **[GW Movie](https://github.com/gabdecarvalho/spring-gw-movie)** — Aplicação fullstack de avaliação de filmes (**Spring Boot + React**), com autenticação JWT e CRUD completo.  
+- **[TabNews Clone](https://github.com/gabdecarvalho/clone-tabnews)** — App fullstack com **Next.js e Node.js**, explorando SSR, SWR e boas práticas de arquitetura.  
 - **[Rest com Spring Boot](https://github.com/gabdecarvalho/rest-spring-boot)** — API RESTful com **Java + Spring Boot + MySQL**, criada como estudo de arquitetura em camadas e documentação com Swagger.  
 
 ---
@@ -47,6 +48,13 @@ Atualmente, estou estudando no **[curso.dev](https://curso.dev)**, de Filipe Des
 
 **Segurança:**  
 `OWASP Top 10` • `JWT` • `SQL Injection` • `XSS` • `SSRF` • `IDOR`  
+
+---
+
+### 📚 Atualmente estudando
+- Arquitetura e Clean Code no **[curso.dev](https://curso.dev)**  
+- **Docker**, **TDD**, **CI/CD**, e melhores práticas de versionamento  
+- **Segurança de Aplicações Web** (TryHackMe – Web Fundamentals)
 
 ---
 
