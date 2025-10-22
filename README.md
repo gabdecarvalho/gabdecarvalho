@@ -19,7 +19,7 @@ Tenho uma base sólida em **boas práticas de código, arquitetura de software, 
 Atualmente, estou estudando no **[curso.dev](https://curso.dev)**, de Filipe Deschamps, aprofundando conhecimentos sobre arquitetura, TDD, CI/CD e Docker.  
 
 🧩 Além do desenvolvimento, mantenho um repositório técnico com **write-ups de segurança web e redes**, reforçando meu foco em criar aplicações seguras:  
-🔗 [Portfólio de Write-ups TryHackMe](https://github.com/gabdecarvalho/tryhackme-writeups)
+🔗 [Portfólio de Write-ups TryHackMe](https://github.com/gabdecarvalho/TryHackMe-Writeups-Gabriel)
 
 ---
 
